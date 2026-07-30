@@ -1,0 +1,1019 @@
+{
+ "campaign": "calanquesnationalpark",
+ "affiliate_base": "?partner_id=1Q7ZSYC&utm_medium=online_publisher&cmp=calanquesnationalpark",
+ "built": "2026-07-30",
+ "sources": [
+  "gyg_calanques_national_park_l86279_64offers-v10.json",
+  "gyg_marseille_l292_outdoor_activities_tc1093_35offers-v10.json",
+  "gyg_cassis_l36948_outdoor_activities_tc1093_26offers-v10.json",
+  "gyg_la_ciotat_l95609_outdoor_activities_tc1093_12offers-v10.json"
+ ],
+ "counts": {
+  "merged_unique": 76,
+  "excluded_geo": 3,
+  "base_true": 73,
+  "site_filter_rc50_r43": 42
+ },
+ "variant": "small-pool 30-60: auto-table + editorial-per-row + details disclosure (blueprint P)",
+ "filter_axis": "type",
+ "by_type_counts": {
+  "sailing": 11,
+  "boat": 8,
+  "day-trip": 7,
+  "kayak-sup": 6,
+  "hike": 4,
+  "e-bike": 4,
+  "dive-snorkel": 2
+ },
+ "excluded": [
+  {
+   "id": "501850",
+   "title": "De Sagone & Cargèse: Calanques de Piana Capo Rosso Baignade - 2026 (Verified Reviews)",
+   "reason": "Calanques de Piana, Corsica — wrong geography"
+  },
+  {
+   "id": "1242385",
+   "title": "Nice: Verdon Gorge Day Trip · Napoleon Route & Provence - 2026 (Verified Reviews)",
+   "reason": "Verdon Gorge from Nice — not calanques"
+  },
+  {
+   "id": "937662",
+   "title": "La Ciotat: Boat Tour to Cove of Var / Embiez and Snorkeling - 2026 (Verified Reviews)",
+   "reason": "Embiez/Var coves — outside park scope"
+  }
+ ],
+ "top_picks": {
+  "most_booked_boat": "747138",
+  "best_hike": "434925",
+  "best_kayak": "948070",
+  "best_premium": "887349"
+ },
+ "notable": {
+  "gyg_original_ebike": "67688",
+  "cosquer_entry_ticket": "743946",
+  "cassis_boat_plus_cosquer": "1020571"
+ },
+ "cote_bleue_ids": [
+  "471213",
+  "497666",
+  "402096"
+ ],
+ "tours": [
+  {
+   "id": "747138",
+   "title": "From Marseille: Iconic Calanques Boat Tour with Swimming - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/from-marseille-iconic-calanques-boat-tour-with-swimming-t747138/",
+   "type": "boat",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 1409,
+   "price": 90.59,
+   "formattedPrice": "$91",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Top pick"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/2a421acb483a481dbd89a82313716f777c2c7050249af35c9add119acb43f1c3.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/ff8ab88ab6620a3c022ddcf898783e52365796ed07d108f76229124dd7b836bf.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/c86fdf96c9822c837e2ad075247d75051e5c6fb6704331070379613dc2743a70.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "402096",
+   "title": "Marseille: Côte Bleue Calanques Half-Day Kayak Tour - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-half-day-kayak-tour-in-the-cote-bleue-calanque-t402096/",
+   "type": "kayak-sup",
+   "cote_bleue": true,
+   "rating": 4.7,
+   "reviews": 944,
+   "price": 68.8,
+   "formattedPrice": "$69",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/60e8209229d91.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/641285d8d6dc6.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/641285d96ee13.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "471213",
+   "title": "Marseille: Calanques Côte Bleue Boat Tour with Swimming - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-cote-bleue-boat-tour-with-swimming-t471213/",
+   "type": "boat",
+   "cote_bleue": true,
+   "rating": 4.6,
+   "reviews": 873,
+   "price": 77,
+   "formattedPrice": "$77",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/c5f53b3aaa67c98f3e195dad8d25a1cb697dec6d15d42adb99a4e84166af82a3.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/5bae2c8fd168eca8c5182641e694a174b36c918fc54c8d2a7b825121640d2375.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/edffba07dec4edb2f21ddfceb91d463ebf69b1933e5532eb473a2530e6489335.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "887349",
+   "title": "Marseille: Calanques Catamaran Tour & Standup Paddle - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-calanques-catamaran-tour-standup-paddle-t887349/",
+   "type": "kayak-sup",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 699,
+   "price": 90.59,
+   "formattedPrice": "$91",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/5aa6d8b0bc455f81a59e7bab83bd419e8cb87704f7144845ccfea5e6d4635403.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/66dbb0de3186d01db7504fc5d5266cea7a305ad4d39f95ccb6f83a7c9d4261fa.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/56c62e613fccc07bc07c698a3427a6c5f6e2c019eb2f168c2eb9376e9985a037.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "504626",
+   "title": "Marseille: boat to Le Frioul, Château d'If, and swim - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-frioul-islands-chateau-d-if-boat-tour-t504626/",
+   "type": "boat",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 613,
+   "price": 57.51,
+   "formattedPrice": "$58",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Booked 14 times yesterday"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/fe2b48cefb3b897ba39b979ccb4658d9652305581b5a26c66e8429c097249d67.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/16363d22832835240c4de522aa1a8bdaaef00a1d53c391bf29a72b9c7d08d38a.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/dc5b211a135e05f7e35a1d64b660577ab46cf09c5d08a02ee276083a9494cefa.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "434925",
+   "title": "Marseille: Calanques National Park Guided Hike with Picnic - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/from-marseille-hike-in-the-calanques-national-park-t434925/",
+   "type": "hike",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 605,
+   "price": 40.13,
+   "formattedPrice": "$40",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/f6d63dde43348a2ee2839257e0738ed9f4fcef50022504cf65585260786f88bd.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/643fb9cf058b4.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/5cc8a1379e814556a3ea2717db8a659a7a03355d8ff703e51f6c159fd4721300.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "434521",
+   "title": "From Marseille: Calanques National Park Guided Hike - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/from-marseille-calanques-national-park-guided-hike-t434521/",
+   "type": "hike",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 574,
+   "price": 40.13,
+   "formattedPrice": "$40",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/fdf9d587b3e5416f091bca84f2a2568896837f2c1f2084ea32c357a1ba5eeaf5.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/6387d7658c23e.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/643fb66c9ad56.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "840629",
+   "title": "From Bandol: Tour of the 13 calanques of Cassis & Marseille (3 hours 15 minutes at sea) - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/bandol-l87627/from-bandol-tour-of-the-13-calanques-of-cassis-marseille-3-hours-15-minutes-at-sea-t840629/",
+   "type": "day-trip",
+   "cote_bleue": false,
+   "rating": 4.5,
+   "reviews": 554,
+   "price": 53.89,
+   "formattedPrice": "$54",
+   "currency": "USD",
+   "duration": null,
+   "location": "Bandol",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/042e51376ca2a48db5d83e665393d943f214e8c171ec43ca2f730c278ca98745.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/b94772743e48507a46ab1e67f69696ae8ef293e61b4aea0f0ff3cf302ebc610a.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/c8db8b4072f391d10b5f9e3eab7f6015ec05fe20b212a65ab2f994de04972cfe.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "395357",
+   "title": "Marseille: Sunset Sailing Cruise with Dinner and Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-sunset-sailing-cruise-with-dinner-and-wine-t395357/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 500,
+   "price": 91.74,
+   "formattedPrice": "$92",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/600ee1445cbb4.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/aa08a9f8ff3455c7ea2c9f4dbb9018627eaf8afbe41c4aebeca589eee5044b72.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/15d8bf3abbe2303b4ab4c2516356a31a5bce2203de48e5a1eb551347f444391e.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "497075",
+   "title": "Marseille: Calanques Boat Tour with Swimming, Buffet & Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/all-day-cruise-in-the-calanques-on-a-classic-ketch-t497075/",
+   "type": "day-trip",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 479,
+   "price": 135.48,
+   "formattedPrice": "$135",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/610d815b8af59beaa041c8260fddc44f4bc83f1d828567daef6ab83168c19715.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/d47bb73d8ad83b41b8da6fb9510d740aac0b16ad1bbb002593fcc24787df24fe.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/b1bdb54d5bdd2f8a200b8cbaf53f8a107dff12e047e18fdde154b56d0ade1b53.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "643368",
+   "title": "Marseille: Sunset catamaran cruise, buffet & drinks - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-sunset-catamaran-cruise-buffet-drinks-t643368/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.5,
+   "reviews": 452,
+   "price": 79.12,
+   "formattedPrice": "$79",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/4eace6b9fefd27b5b482eb3ed7be051068952f678e897214741dfa61d7e7bf4f.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/d2179b413a5878615be60fc1b72561d647cb007d57fd54d20085b71038c96257.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/ff4e35bef33af7561d01c4cb26546ad6453165548a397942d1ac188166ca00ab.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "395356",
+   "title": "Marseille: Calanques Sailing Cruise with Lunch and Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/calanques-national-park-l86279/marseille-calanques-sailing-cruise-with-lunch-and-wine-t395356/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 401,
+   "price": 149.07,
+   "formattedPrice": "$149",
+   "currency": "USD",
+   "duration": null,
+   "location": "Calanques National Park",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/ee61f76d9c8da9b2105f47ab81b9d7b6bbaa085f3609f7746ed122d3005ae33c.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/11fd571ae42f9937a28eaefc3ce0a47f531930b84988b6938fb51560523a4705.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/21460baf11fe9deb475571922f15d476de14f4aaf7f3646d8f5ab3b66a3b2f43.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "67688",
+   "title": "From Marseille: Guided E-Bike Tour to Calanque de Sormiou - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/from-marseille-guided-e-bike-tour-to-calanque-de-sormiou-t67688/",
+   "type": "e-bike",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 357,
+   "price": 68.8,
+   "formattedPrice": "$69",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Originals by GetYourGuide"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/c64e1d94c852448145b53b721323945058ec22a310ec49c90e2ec2e6e348cae6.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/ed9d9e2c6f7acc56988930372b3f7c2be6aadd3591708e4ee165ecb137ec5bce.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/2d83bf756d1774334c02451e00b384c29409cfec62910695d8c27e91f3926ac9.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "497128",
+   "title": "Marseille: Sunset Cruise with Dinner & Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/sunset-cruise-in-frioul-islands-on-a-classic-ketch-t497128/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 332,
+   "price": 96.49,
+   "formattedPrice": "$96",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Top rated"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/e1daecc2b1d9a9f6.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/88ed91331f0d935b.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/1c3e5c22dbd97b212336cbaff721fd31c94d920ce22cd37de6ab1482e1fb1b9d.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "839662",
+   "title": "From Bandol: Tour of the 7 calanques of Cassis & Marseille (2.5 hours at sea) - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/bandol-l87627/from-bandol-tour-of-the-7-calanques-of-cassis-marseille-25-hours-at-sea-t839662/",
+   "type": "day-trip",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 312,
+   "price": 49.31,
+   "formattedPrice": "$49",
+   "currency": "USD",
+   "duration": null,
+   "location": "Bandol",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/b94772743e48507a46ab1e67f69696ae8ef293e61b4aea0f0ff3cf302ebc610a.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/3a2c1784aaa2855ed56f514eb885851baa101bcc1fff7309f3685929a06a9501.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/2e52ae3c6ad19f6239a9ae9e13a0a4906ade8a8a1ed588c50b9225aef7bd6f97.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "74558",
+   "title": "Marseille: Half-Day E-Bike Tour from Cruise Port - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-half-day-e-bike-tour-from-cruise-port-t74558/",
+   "type": "e-bike",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 288,
+   "price": 90.59,
+   "formattedPrice": "$91",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Top rated"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/9c7efccf2d345275.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/3343f8db4380bf88.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/3dc52bcc71979c52.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "499661",
+   "title": "Marseille: Sunset Boat Cruise with Rosé Wine & Snacks - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-frioul-islands-sunset-cruise-t499661/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 283,
+   "price": 67.25,
+   "formattedPrice": "$67",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Top rated"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/ebcb1846fb150eb245aed965e50a8887cf62e8684879e256cf4fd51442c4c17c.png",
+    "https://cdn.getyourguide.com/image/99/tour_img/9749209473480543c4f7c11b0a9f8692bb3b31e8ec34fb51aa806881e830aa6f.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/66355638a99b151929cd8ff96fd25eb7c62072d97c566c0afc09e1cedd7e5692.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "754885",
+   "title": "Marseille: Calanques Catamaran Cruise, Picnic, & Swimming - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-calanques-catamaran-cruise-picnic-swimming-t754885/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 257,
+   "price": 90.59,
+   "formattedPrice": "$91",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/599ee99e2045c8a6d826aa4383e2f118e7f18d696a0ac64a96b03170594276ad.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/6248f42f47563b281c816dd8433c9053267cc34f2f7211f01d0c9adc333d8fd4.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/42aae9e8b7960059361f91cf52830f2981d964809c2df30facf4a82e69edf36e.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "398570",
+   "title": "Croisière et baignade dans les Calanques + option paddle - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-calanques-national-park-boat-trip-with-swimming-t398570/",
+   "type": "kayak-sup",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 231,
+   "price": 86,
+   "formattedPrice": "$86",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/16f395c0c991e8526234f06a24cbc136361211ac7cae1b112dc997dbab1c5284.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/3f0d8e6ba8ca56f552e0d73a611a23018b5f8f0c073c281bb4b60a7364b5a227.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/228f4991d499d9494bef956c49bf2bf43d90321434cc70ca2e9a039ba53bce38.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "401887",
+   "title": "Cassis: 3 Calanques Half-Day Hiking Tour with Swimming - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/cassis-l36948/cassis-3-calanques-hiking-tour-with-swimming-t401887/",
+   "type": "hike",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 225,
+   "price": 51.6,
+   "formattedPrice": "$52",
+   "currency": "USD",
+   "duration": null,
+   "location": "Cassis",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/caf7e70a0e50120b6e7197dc5e9c19b092b405d4d47c59ba5e98096ef2d64b71.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/0eaf6d56aa92393fc217e76fe8336fa2485f4ee7c9d6df4f5dbab30f28dfbced.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/5003aef22241d5e19452e77e06ad30fcad3e83022fa2ec4489571605d4a81d05.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "639914",
+   "title": "Cruise, Coffee and Swimming in the Calanques of Frioul - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/cruise-coffee-and-diving-in-the-calanques-of-frioul-t639914/",
+   "type": "boat",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 207,
+   "price": 68.8,
+   "formattedPrice": "$69",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/e188392c134461b977bf6d59c8fb05493713e985dfed6a3ab3a53eac1aeedda8.png",
+    "https://cdn.getyourguide.com/image/99/tour_img/fa9e791d351affaf00ec0ba5ff3af8c20032e3f51969d6c06b1d549fec7e49ce.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/787cf4b9df823c06cc3c820ddb68cc519e47f34bd58b0b3376f2c93713458497.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "737069",
+   "title": "Marseille: Half-Day Boat Tour to the Calanques National Park - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/south-of-france-l199847/marseille-boat-tour-to-the-calanques-national-park-half-day-t737069/",
+   "type": "boat",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 206,
+   "price": 97.47,
+   "formattedPrice": "$97",
+   "currency": "USD",
+   "duration": null,
+   "location": "South Of France",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/2b5f935b63f7ae49473e6f8a5cb9a14e34c4c765d97248b2934cde914c77660e.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/a8d97c6ea645df0ef1dc3f08988e2b56aa5fd2a84e38aa5d6b4b70427d2c651b.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/399963fd9b53753527d3a61b6d0df20eff6f0c1e535e1cbb75d2004faf840075.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "388303",
+   "title": "Marseille: Calanques Eco Boat Cruise with Lunch and Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-calanques-eco-boat-cruise-with-lunch-and-wine-t388303/",
+   "type": "day-trip",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 201,
+   "price": 149.07,
+   "formattedPrice": "$149",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/cb1c4477fb82c7f891644ca120fc4deef8a4b4e16683ea89bac5fb2203adf556.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/60f18b4f495e1.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/3f0d8e6ba8ca56f552e0d73a611a23018b5f8f0c073c281bb4b60a7364b5a227.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "947171",
+   "title": "Marseille: Signature Day Trip with Meal | Calanques de Marseille - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-day-trip-with-meal-in-the-calanques-by-catamaran-t947171/",
+   "type": "boat",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 186,
+   "price": 141.04,
+   "formattedPrice": "$141",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/96132b501cac461850ac1428af2a4eb11153dbcecda4bfa5b4bfa6adbefe1488.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/3a35d597a722e236ce0361105c6c7c8c0eac2a8ec41ad05ee94ea7ebdf246bd6.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/447185d035838a061cfb1cda0311cd26e34c8648ac8e5fe2560a3f22702c0e5b.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "914021",
+   "title": "Marseille: Evening Sailing Trip to the Calanques du Frioul with Buffet and Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-evening-sailing-trip-in-the-calanques-du-frioul-with-buffet-and-organic-wine-t914021/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 149,
+   "price": 91.74,
+   "formattedPrice": "$92",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Top rated"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/9220d29448335b89fa7712e9429423dcaeef598f7d036011df18a4300b4ff6ec.png",
+    "https://cdn.getyourguide.com/image/99/tour_img/6d36ca8cdfcb894984309a46be0a83726e7f79f4078f160d3a7351e8a2a8a350.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/7dcfacb58d7cae387c9c912165d4af71f89551302b01c381efb8188bfaba0fd8.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "497666",
+   "title": "Marseille: Côte Bleue Boat Tour with Swimming, Buffet & Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-sailboat-cruise-with-lunch-swim-and-organic-wine-t497666/",
+   "type": "day-trip",
+   "cote_bleue": true,
+   "rating": 4.7,
+   "reviews": 140,
+   "price": 135.48,
+   "formattedPrice": "$135",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/cf764cdd9484a56947862ed7618d9033c816eafc810816049c58a68b4a25690b.png",
+    "https://cdn.getyourguide.com/image/99/tour_img/aef207584158ac208647d33e3acc11d1f18ad8e9a84329a89ebefad79f33e469.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/bf600d4324d76c0ce834a6b008580d6fbd94996d040c9bfb4a82e440311245a3.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "68181",
+   "title": "From Marseille: Calanques National Park E-Mountain Bike Tour - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/pedelec-sport-tour-of-marseille-calanques-t68181/",
+   "type": "boat",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 132,
+   "price": 79.12,
+   "formattedPrice": "$79",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/6490648b77fce.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/f067e17b4279ac35cecb51a222fb50c64a28d3bf34544316daf34fc81a026608.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/37b29347f0fd22f5d8e27715fc3e8ff80bf84bbf6b5311df76b14d8d7146df27.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "33237",
+   "title": "From Aix-en-Provence: Cassis Tour with Cap Canaille Stop - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/from-aix-en-provence-half-day-cassis-cap-canaille-stop-t33237/",
+   "type": "day-trip",
+   "cote_bleue": false,
+   "rating": 4.8,
+   "reviews": 124,
+   "price": 91.74,
+   "formattedPrice": "$92",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [
+    "Certified by GetYourGuide"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/b1a7630027ba29fdcee14216c0a4376cc161319fa47ccfffa31604d7875a5d27.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/5c3918fc13cda4f1120fc15e60f48937da19f6368c8cbeb1fff882c483de8faa.png",
+    "https://cdn.getyourguide.com/image/99/tour_img/f870b10c0f21a1bf066a2c7f4e76f6c175169f73c6bd64e46f9a1fcd72f2b868.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "480835",
+   "title": "Marseille: Frioul Calanques Sailing Trip with Swimmings - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-frioul-calanques-sailing-trip-with-swimmings-t480835/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 5.0,
+   "reviews": 121,
+   "price": 974.69,
+   "formattedPrice": "$975",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/649ae2daae6cf.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/649ade5c25717.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/4165aeb5ced6b8065c3f6ead41800ba33119a444da39bc167fd51c0e814b3272.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "948070",
+   "title": "Cassis: Half-Day Sea Kayaking Tour in the Calanques National Park - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/cassis-l36948/cassis-half-day-sea-kayaking-tour-in-the-calanques-national-park-t948070/",
+   "type": "kayak-sup",
+   "cote_bleue": false,
+   "rating": 5.0,
+   "reviews": 117,
+   "price": 89.44,
+   "formattedPrice": "$89",
+   "currency": "USD",
+   "duration": null,
+   "location": "Cassis",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/e8d0a5f344aa9eb5516187df30b65696eda861c8ba6bb5b8628bb531947802c0.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/682792726a71712239b90e0e9b9d3c15f7718bd22f704ac55a27355df53e3f07.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/27f70ebb30380d567f81d5bca645a65a6593052dcedb5e4b040591a7603b1678.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "411074",
+   "title": "From Aix: Cassis Boat Ride & Provence Wine Tasting Day Tour - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/cassis-l36948/from-aix-cassis-boat-ride-provence-wine-tasting-day-tour-t411074/",
+   "type": "day-trip",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 111,
+   "price": 240.8,
+   "formattedPrice": "$241",
+   "currency": "USD",
+   "duration": null,
+   "location": "Cassis",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/61e5e58e35c31.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/ede10e9369637c78231f93bf6d752e8b00d5886bd60ded7ffa4829c0ec3bd81a.png",
+    "https://cdn.getyourguide.com/image/99/tour_img/c288824fa8e63830daf3ff55a41c638967bf55ecd2ca8a6bfccee74e722a1f71.png"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "64341",
+   "title": "Marseille: Full-Day Guided E-Bike Coast & Calanques Tour - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-full-day-guided-e-bike-coast-calanques-tour-t64341/",
+   "type": "e-bike",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 105,
+   "price": 94.37,
+   "formattedPrice": "$94",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/882700d59bc9faad.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/9b0d0edfb7f4d203.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/ab370a06214d30a3.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "943155",
+   "title": "La Ciotat: Calanques Afternoon Boat Tour with Snorkeling - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/la-ciotat-l95609/la-ciotat-boat-tour-in-the-calanques-with-swimming-t943155/",
+   "type": "dive-snorkel",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 101,
+   "price": 131.87,
+   "formattedPrice": "$132",
+   "currency": "USD",
+   "duration": null,
+   "location": "La Ciotat",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/fa555450b1edf4e73965eeb70d43e6110977a284a733b21938884f7ddcb9e759.png",
+    "https://cdn.getyourguide.com/image/99/tour_img/a0cea0c05800fbc072f8965f9f40db338c514f4e8a49cfbab6c477ce3be0e929.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/6de0f62b3b764e447b2f2defffc41f810071c8cfa611dd2a35a7baace1d828e5.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "481928",
+   "title": "Marseille: Guided Hiking Calanques National Park from Luminy - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-guided-hiking-calanques-national-park-from-luminy-t481928/",
+   "type": "hike",
+   "cote_bleue": false,
+   "rating": 4.7,
+   "reviews": 101,
+   "price": 45.87,
+   "formattedPrice": "$46",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/649d28a45fd15.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/649d28b695fe6.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/649d28f5f340e.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "411763",
+   "title": "Calanques National Park: E-Mountain Bike with Virtual Guide - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/calanques-national-park-l86279/calanques-national-park-e-mountain-bike-with-virtual-guide-t411763/",
+   "type": "boat",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 93,
+   "price": 51.6,
+   "formattedPrice": "$52",
+   "currency": "USD",
+   "duration": null,
+   "location": "Calanques National Park",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/638e009d49147.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/638e06c8bd41e.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/623208305dd18.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "495676",
+   "title": "Cassis: Stand UP paddle in the Calanques National Park - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/cassis-l36948/cassis-stand-up-paddle-in-the-calanques-national-park-t495676/",
+   "type": "kayak-sup",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 81,
+   "price": 57.33,
+   "formattedPrice": "$57",
+   "currency": "USD",
+   "duration": null,
+   "location": "Cassis",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/3fb28d091dda9f30.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/d37a9c6d7458637c.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/46f8513954136cbe.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "385834",
+   "title": "Cassis: Calanques National Park Sea Kayaking Tour - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/cassis-l36948/cassis-calanques-national-park-sea-kayaking-tour-t385834/",
+   "type": "kayak-sup",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 78,
+   "price": 87.15,
+   "formattedPrice": "$87",
+   "currency": "USD",
+   "duration": null,
+   "location": "Cassis",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/689dd06eb0eb79a0c66a79b5201631a65b21e8347e25efaaaa4bec17264d2f00.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/dc574bf13b0ff8ca958ecdb9e62a158118ff6966c33ca3d29d1c2cbc09a61d6d.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/f1a4cfef90a0fe2ee42564615a7cfc78682ecf78fff40bf743e2fe3435151f55.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "753669",
+   "title": "Marseille : Calanques Catamaran Cruise with Lunch & Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-sailing-catamaran-tour-into-the-iconic-calanques-t753669/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 76,
+   "price": 193.79,
+   "formattedPrice": "$194",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/684c5fe0c230efd460f9523431208f50bab0a9ba771839dceceebdc8a6837bf3.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/eb9e17bbf355c3330054fb632c21c6c4dc3cfcfea6eefa716bbca04325f62b1d.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/f261dcd62870f86c56c536088264eb196767869b71457d364b10a3ded9529b8f.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "1018482",
+   "title": "La Ciotat: Calanques Morning Boat Tour with Snorkeling - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/la-ciotat-l95609/la-ciotat-calanques-morning-boat-tour-with-snorkeling-t1018482/",
+   "type": "dive-snorkel",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 73,
+   "price": 114.67,
+   "formattedPrice": "$115",
+   "currency": "USD",
+   "duration": null,
+   "location": "La Ciotat",
+   "badges": [
+    "Likely to sell out"
+   ],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/a0cea0c05800fbc072f8965f9f40db338c514f4e8a49cfbab6c477ce3be0e929.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/229337256cac5def6c99809dcbb9174249db2342a004f43d0b955b24fe26e3d8.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/283b60c8b2be69b5c7ef0b37e4fb733ac86191699f64973345c6af62989a26e6.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "498306",
+   "title": "Marseille: Romantic Sunset Cruise with Dinner & Wine - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-sunset-cruise-cocktail-dinner-in-frioul-islands-t498306/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 70,
+   "price": 96.49,
+   "formattedPrice": "$96",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/04d3e064efbe7da78f7687e3b10c85f5a047dbbc92b3ceae978a6bbaaa31ba70.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/81f9a298169170b4a9ec0a0f3f503ec69a06b9f36fec5283154f7485b8c1df85.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/e3fe865c686049a044c777f4580ef90b62a5256cff36d76e9d32fcd8bcd526f6.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "75815",
+   "title": "Cassis: Calanques and Viewpoints Tour by Mountain E-Bike - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/cassis-l36948/cassis-calanques-and-viewpoints-tour-by-mountain-e-bike-t75815/",
+   "type": "e-bike",
+   "cote_bleue": false,
+   "rating": 4.9,
+   "reviews": 63,
+   "price": 45.87,
+   "formattedPrice": "$46",
+   "currency": "USD",
+   "duration": null,
+   "location": "Cassis",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/5ea6860db8460.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/58274580589c2.jpeg",
+    "https://cdn.getyourguide.com/image/99/tour_img/5827493ac01cb.jpeg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  },
+  {
+   "id": "1002299",
+   "title": "Marseille: Sailing cruise tour to Château d'If, the Calanques & swimming - 2026 (Verified Reviews)",
+   "url": "https://www.getyourguide.com/marseille-l292/marseille-sailing-boat-cruise-tour-to-chateau-d-if-and-the-calanques-du-frioul-t1002299/",
+   "type": "sailing",
+   "cote_bleue": false,
+   "rating": 4.6,
+   "reviews": 62,
+   "price": 81.53,
+   "formattedPrice": "$82",
+   "currency": "USD",
+   "duration": null,
+   "location": "Marseille",
+   "badges": [],
+   "images": [
+    "https://cdn.getyourguide.com/image/99/tour_img/c32848152e485c670ad071a643fb4c327244aad477f4dbf6556191703a2f3db6.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/1735c0f32a3ebd9a2b6d6eb48163ea45e66eb04c742ad61ee9ad55cddc6e37a2.jpg",
+    "https://cdn.getyourguide.com/image/99/tour_img/eadd877f0f947997a170ef6835004af0f4c2aa7d56382da8682a649d34b52162.jpg"
+   ],
+   "abstract": null,
+   "freeCancellation": true
+  }
+ ]
+}

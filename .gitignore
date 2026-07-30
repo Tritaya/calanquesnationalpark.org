@@ -1,0 +1,10 @@
+# Temp files used by the commit workflow
+.commit-msg.tmp
+*.tmp
+
+# Build tooling caches
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
